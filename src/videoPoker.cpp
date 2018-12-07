@@ -3,7 +3,7 @@
 // Author      : Andy-Baba
 // Version     :
 // Copyright   : You are free to use this project as you like, any questions let me know andykan1984@gmail.com
-// Description : This
+// Description : Written in Borland C and working on DOS based systems.
 //============================================================================*/
 
 #include<stdio.h>
